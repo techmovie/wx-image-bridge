@@ -1,0 +1,19 @@
+{
+  "name": "wx-image-bridge",
+  "version": "1.0.0",
+  "description": "show original image of weixin artical which is cited on other website  ",
+  "main": "index.js",
+  "author": "birdplane",
+  "license": "MIT",
+  "dependencies": {
+    "koa": "^2.13.0",
+    "superagent": "^6.1.0"
+  },
+  "devDependencies": {
+    "eslint": "^7.16.0",
+    "eslint-config-standard": "^16.0.2",
+    "eslint-plugin-import": "^2.22.1",
+    "eslint-plugin-node": "^11.1.0",
+    "eslint-plugin-promise": "^4.2.1"
+  }
+}
